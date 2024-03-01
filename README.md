@@ -59,7 +59,5 @@ print(f"Received {data!r}")
 ![image](https://github.com/Harini-Gunasekaran/Echoserver/assets/133184688/8cc41ce1-e83b-4bbe-89b6-4c59fcd49c0a)
 
 
-## OUTPUT:
-
 ## RESULT:
 The program is executed successfully
