@@ -52,10 +52,12 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### SERVER OUTPUT:
-![image](https://github.com/pradeepasri26/Echoserver/assets/131433142/a89b0d25-0b41-4b95-9eeb-9c7f6ed92533)
+![image](https://github.com/Harini-Gunasekaran/Echoserver/assets/133184688/16599b96-221b-4866-9224-5a1c4e3642ec)
+
 
 ### CLIENT SIDE:
-![image](https://github.com/pradeepasri26/Echoserver/assets/131433142/802600e0-45fe-4a33-9388-e123fbdc7087)
+![image](https://github.com/Harini-Gunasekaran/Echoserver/assets/133184688/8cc41ce1-e83b-4bbe-89b6-4c59fcd49c0a)
+
 
 ## OUTPUT:
 
